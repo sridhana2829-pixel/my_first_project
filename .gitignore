@@ -1,0 +1,10 @@
+firebase_key.json
+__pycache__/
+.venv/
+
+books_raw_data/
+movie_raw_data/
+
+*.pyc
+*.pkl
+*.log
